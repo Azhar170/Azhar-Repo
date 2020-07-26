@@ -1,0 +1,11 @@
+# JMeter generated Header file
+Host	${EndPoint_API}
+Accept	*/*
+Connection	keep-alive
+Accept-Language	en-us
+Authorization	${Authorization}
+Accept-Encoding	br, gzip, deflate
+Content-Type	application/json
+Content-Length	0
+Cache-Control	no-cache
+	
